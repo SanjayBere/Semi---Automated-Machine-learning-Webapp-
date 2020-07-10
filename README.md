@@ -1,4 +1,4 @@
-# Streamlit-Applications
+# Streamlit-Application
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-App-orange)
 
